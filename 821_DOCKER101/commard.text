@@ -1,0 +1,16 @@
+docker -v
+เช็คเวอร์ชั่น
+docker ps
+ลิ้ง
+docker images
+ดูขอวในเครื่อง
+docker ps --all
+แสดง
+docker stop id
+หยุดการทำงาน
+docker rm id
+ลบid
+docker run nginx
+เปิดเซฟ
+docker run -p 80:80 nginx
+กำหนดจุดหมาย
