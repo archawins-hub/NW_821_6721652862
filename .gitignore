@@ -1,0 +1,6 @@
+# MySQL data directory is local Docker runtime state, not source code.
+database/
+
+# Local environment and editor files
+.env
+.vscode/
